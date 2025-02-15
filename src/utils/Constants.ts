@@ -1,0 +1,30 @@
+export const IMAGES = {
+  ABOUT_01:
+    "https://craftohtml.themezaa.com/images/demo-restaurant-about-01.jpg",
+  ABOUT_02:
+    "https://craftohtml.themezaa.com/images/demo-restaurant-about-02.jpg",
+  ABOUT_03:
+    "https://craftohtml.themezaa.com/images/demo-restaurant-about-03.jpg",
+  ABOUT_04:
+    "https://craftohtml.themezaa.com/images/demo-restaurant-about-04.jpg",
+  ABOUT_05:
+    "https://craftohtml.themezaa.com/images/demo-restaurant-about-05.jpg",
+  ABOUT_06:
+    "https://craftohtml.themezaa.com/images/demo-restaurant-about-06.jpg",
+  ABOUT_07:
+    "https://craftohtml.themezaa.com/images/demo-restaurant-about-07.jpg",
+  ABOUT_08:
+    "https://craftohtml.themezaa.com/images/demo-restaurant-about-08.jpg",
+  ABOUT_10:
+    "https://craftohtml.themezaa.com/images/demo-restaurant-about-10.jpg",
+  ABOUT_11:
+    "https://craftohtml.themezaa.com/images/demo-restaurant-about-11.png",
+  AWARD_01:
+    "https://craftohtml.themezaa.com/images/demo-restaurant-about-award-01.jpg",
+  AWARD_02:
+    "https://craftohtml.themezaa.com/images/demo-restaurant-about-award-02.jpg",
+  AWARD_03:
+    "https://craftohtml.themezaa.com/images/demo-restaurant-about-award-03.jpg",
+  AWARD_04:
+    "https://craftohtml.themezaa.com/images/demo-restaurant-about-award-04.jpg",
+};

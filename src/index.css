@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Bebas Neue", sans-serif;
+}
+@layer base {
+  a {
+    @apply text-lg text-white;
+  }
+}
+#root {
+  overflow: hidden;
+}
