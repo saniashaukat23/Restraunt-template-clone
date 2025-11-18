@@ -4,7 +4,7 @@ type IconsProps = {
   icon?: React.ElementType;
   category: string;
   selected: boolean;
-  isGalleryPage?: boolean;
+  isGalleryPage: boolean;
 };
 
 const Icons: React.FC<IconsProps> = ({
