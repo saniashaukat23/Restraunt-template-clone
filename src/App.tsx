@@ -16,7 +16,7 @@ const App = () => {
       <ScrollToTop />
       <Navbar />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/Restraunt-template-clone" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/menu" element={<MenuPage />} />
         <Route path="/story" element={<Story />} />
